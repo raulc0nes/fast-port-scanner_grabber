@@ -25,5 +25,4 @@ tuusario@tumaquina:~# cat scan_results.log
 Puerto 443 abierto. Banner: No banner
 Puerto 12345 abierto. Banner: SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u3
 
-@raulc0nes
-#OpenAI
+#coded through OpenAI by @raulc0nes
